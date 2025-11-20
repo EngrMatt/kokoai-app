@@ -2,9 +2,9 @@ import type { MetadataRoute } from 'next'
  
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'Next.js PWA',
-    short_name: 'NextPWA',
-    description: 'A Progressive Web App built with Next.js',
+    name: 'KoKo.AI',
+    short_name: 'KoKo.AI',
+    description: 'Smart AI agent for automated bookkeeping and financial analysis.',
     start_url: '/',
     display: 'standalone',
     background_color: '#ffffff',
